@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(255, 255, 255);
+        text-align: center
+}
+
+.head-block {
+   background-color: rgb(255, 255, 255);
+   margin: 0px auto 10px;
+   font-weight: normal;
+   
+} 
+
+.search-box
+{
+   padding: 1px 50px;
+     inline-size: 280px;
+   margin: 10px auto;
+}
+input {
+   margin-left: 1px;
+}
+
+
+.wrapper {
+   margin: 0 75px
+}
+
+.group-block {
+   margin-left: auto;
+   margin-right: auto;
+   width: 100%;
+  
+
+}
+
+.block {
+   background-color: rgb(96, 204, 204);
+   padding: 21px;
+   font-weight: bold;
+}
+
+
+.end {
+   font-size: small;
+   padding: 16px
+}
